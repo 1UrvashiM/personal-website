@@ -1,0 +1,244 @@
+p {
+    font-family: 'Balsamiq Sans', cursive;
+    margin-bottom: 10px;
+}
+h2 {
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 200%;
+    color: white;
+}
+h3 {
+    font-family: 'Balsamiq Sans', cursive;
+}
+.h1{
+    font-family: 'Rouge Script', cursive;
+    font-size: 500%;
+    color: white;
+}
+.p {
+    font-family: 'Balsamiq Sans', cursive;
+    color: white;
+}
+.image {
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+}
+.body {
+    position: relative;
+    text-align: center;
+}
+.cont {
+    text-align: center;
+    margin-top: 30px;
+}
+.middle-container {
+    position: relative;
+    background-image: linear-gradient(rgb(255, 202, 233) ,rgb(144, 182, 194), rgb(115, 206, 115));
+}
+.contacts {
+    background-image: linear-gradient(rgb(255, 202, 233) ,rgb(144, 182, 194), rgb(115, 206, 115));
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+.top {
+    position: relative;
+    padding: 100px;
+    background-image: linear-gradient(rgb(255, 202, 233) ,rgb(144, 182, 194), rgb(115, 206, 115));
+    margin-top: 30px;
+}
+.left {
+    position: absolute;
+    top: 250px;
+    height: 100px;
+    width: 100px;    
+}
+.right {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.mountain {
+    height: 300px;
+    width: 500px;
+    margin-top: 10px;
+    
+    filter: drop-shadow(0 0 55px 0);
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.design {
+   width: 30%;
+   float: left;
+   margin-right: 30px;
+}
+.paint {
+    width: 25%;
+    float: right;
+}
+.food {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.books {
+    width: 25%;
+   float: left;
+   margin-right: 30px;
+}
+div {
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+img:hover {
+    opacity: 0.5;
+  }
+  hr {
+      border-style: dotted none none none;
+      height: 10px;
+      width: 50%;
+      border-color: rgba(252, 112, 182, 0.521);
+      border-width: 5px;
+  }
+  .linkedin {
+      height: 50px;
+      width: 50px;
+      float: left;
+      margin-top: 2px;
+  }
+  .twitter {
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-top: 2px;
+  }
+  .behance {
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-top: 2px;
+
+  }
+  .dribbble {
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-top: 2px;
+  }
+  .gmail {
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-top: 2px;
+  }
+  .insta {
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-top: 2px;
+  }
+  .all {
+    position: relative;
+    width: 30%;
+    height: 45px;
+    margin:30px auto 10px auto;
+    background-color: rgba(223, 217, 217, 0.3);
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+  }
+  a {
+      font-family: 'Balsamiq Sans', cursive;
+      text-decoration: none;
+      color: black;
+  }
+  a:hover {
+      color: white;
+  }
+  .all:hover {
+      background-color: rgba(252, 112, 182, 0.521);
+      box-shadow: 10px 10px 10px white;
+  }
+  .star1 {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 200px;
+    left: 60px;
+  }
+  .star2 {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: -50px;
+    right: 60px;
+  }
+  .stara {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+  }
+  .starb {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    right: 100px;
+  }
+  .starc {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+  }
+  .btn {
+    background: #f29ba8;
+    background-image: -webkit-linear-gradient(top, #dedede, #d29dd9);
+    background-image: -moz-linear-gradient(top, #dedede, #d29dd9);
+    background-image: -ms-linear-gradient(top, #dedede, #d29dd9);
+    background-image: -o-linear-gradient(top, #dedede, #d29dd9);
+    background-image: linear-gradient(to bottom, #dedede, #d29dd9);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    text-shadow: 1px 1px 3px #666666;
+    -webkit-box-shadow: 0px 5px 7px #666666;
+    -moz-box-shadow: 0px 5px 7px #666666;
+    box-shadow: 0px 5px 7px #666666;
+    font-family: Arial;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #dedede;
+    background-image: -webkit-linear-gradient(top, #f29ba8, #91438d);
+    background-image: -moz-linear-gradient(top, #f29ba8, #91438d);
+    background-image: -ms-linear-gradient(top, #f29ba8, #91438d);
+    background-image: -o-linear-gradient(top, #f29ba8, #91438d);
+    background-image: linear-gradient(to bottom, #f29ba8, #91438d);
+    text-decoration: none;
+    -webkit-box-shadow: 0px 5px 7px #f7f7f7;
+    -moz-box-shadow: 0px 5px 7px #fffefe;
+    box-shadow: 0px 5px 7px #ffffff;
+  }
+  .git {
+      margin-bottom: 40px;
+  }
+  .contact-me {
+      padding-bottom: 30px;
+  }
+  .bea {
+      text-decoration: underline;
+  }
